@@ -1,0 +1,16 @@
+h1 {  
+	color: #067A89;
+ 	text-align: center;
+ 	font: regular 200% fantasy;
+   }
+
+ul {
+ 	background-color: #ADE0A6;
+ 	color: #168906;
+ 	text-align: left;
+ 	border: 3px groove #168906;
+   }
+
+li {
+	color: #168906;
+   }
